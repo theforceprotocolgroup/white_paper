@@ -1,2 +1,2 @@
 # white-paper
-theforceprotocol white-paper
+theforceprotocol white-paper.
