@@ -4,6 +4,7 @@
       <img width="400px" src='./assets/theforceprotocol.jpg'/>
     </a>
   </span>
+
 ## Abstract
 
 By January of 2018, the overall global value of cryptoassets has reached to $800 billion.
