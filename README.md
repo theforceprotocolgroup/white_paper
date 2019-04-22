@@ -1,47 +1,46 @@
-# GXChain White Paper
-<div>
-  <span>
-    <a href="https://static.gxb.io/files/GXChain_WhitePaper_v3.0_CN.pdf">
+# The Force Protocol White Paper
+<span>
+    <a href="https://www.theforceprotocol.com/">
       <img width="400px" src='./assets/theforceprotocol.jpg'/>
     </a>
   </span>
-</div>
-
 ## Abstract
 
-GXChain is a fundamental blockchain for the global data economy, designed to build a trusted data internet of value.
+By January of 2018, the overall global value of cryptoassets has reached to $800 billion.
 
-GXChain has evolved rapidly since its inception, which started from a decentralized data marketplace (commercialized on September 2017), to a basic-chain ecosystem. The ecosystem is currently serving millions of users and software developers. 
+In addition to cryptocurrency exchange, cryptotokens mortgage loan is another best way to get liquidity for cryptoassets holders.
 
-To help people better understand what we are doing now, and where we are going in the future, we are continuously updating the whitepaper of GXChain. 
+However, as different platforms of cryptoasset loan are based on different rules,rare liquidity among cryptoassets loan services exists, user experience improvement is in urgent need.
 
-This version of the whitepaper focuses on the following topics:
+Based on Ethereum (ETH) Blockchain platform, The Force Protocol team will develop
+cryptocurrency loan protocols and standards in different scenarios.
 
-- Elaborated GXChain’s governance structure, which can faciliate democratic, transparent and decentralized governance of GXChain. GXChain is growing from the early stage of team operation to the community-based governance, further improving consensus.
-- Introduced the GXChain TrustNodes election, and earnings. The election campaign will make GXChain more distributed, improving the security and stability of the GXChain main net. Influential teams in the world will be introduced to the election campaign and participate in the governance of GXChain.
-- Optimized technical and system structure of GXChain and the addition of smart contracts 2.0, cross chain technology, oracle machines, and trusted data modules. We also give examples of the applications of a trusted data internet and our technical strategies, thereby setting guidelines for developers.
-- Announced to swap GXS to GXC with a ratio of 1:1, GXC will be the core asset and act as the main token for utility and governance of GXChain. Later, in the GXChain ecosystem, GXC will be the key utility token for payments, transactions, governance, and development.
-- Illustrated business models of GXC, and its value, generation, and distribution mechanism.
-- Announced the road map of GXChain, which focuses on improving its competitiveness through technical innovation, collaboration, and community governance.
+By converting cryptocurrency borrowing request into tokens exchange-like trading, order format standardization is realized.
 
-[Read More](https://static.gxb.io/files/GXChain_WhitePaper_v3.0_EN.pdf)
+Stablecoins can cooperate with loan services. To make full use of stablecoins, Dual Token Model is proposed here, which can overcome shortcomings of existing stablecoins economic models.
+
+With this model, policy risk can be removed by introduction of supervision from third party custodian bank and auditing institution.
+
+In addition, sustainable full currency reserve mechanism is proposed for the first time.
+
+The Force Protocol will open source, and its instructions are encouraged to be called through API by third-party applications (supernode), with the purpose of providing protocol layer services for different cryptocurrency loan applications around the world.
+
+Moreover, liquidity and depth of loan platform are also expanded.
+
+[Read More](https://www.theforceprotocol.com/theforceprotocol_whitepaper_en.pdf)
 
 ## 引言
 
-GXChain( 公信链 ) 是一条为全球数据经济服务的基础链，旨在打造可信数据的价值网络。
+截止2018年1月，全球加密数字资产价值总额最高已达8000亿美金。除加密数字资产交
+换外，在以太坊体系上的一系列加密数字金融服务已成为加密数字资产持有人获得的金
+融服务的新选择。然而，由于不同加密数字资产金融服务应用平台基于不同的规则，使得
+加密数字资产金融服务应用间缺乏互动，协同开发难度大，用户使用体验较差。
+原力协议是分布式加密数字金融服务协议，基于主流公链系统和底层跨链协议，通过对分
+布式金融业务流程的抽象和封装，以SDK及API的形式，用一站式解决方案赋能去中心化
+金融应用开发。为跨平台资产流转、交易深度共享、跨链加密资产抵押的稳定币发行、通
+证债券发行、链上支付、交易清结算等金融需求提供解决方案。原力协议在分布式金融生
+态里搭建去中心化金融服务的通用开发平台，通过将分布式金融当中与具体场景相关的需
+求框架化、系统化，为分布式网络内的金融服务提供通信标准和开发框架，让加密资产可
+以在统一的框架内实现安全高效的价值互联互通。
 
-本项目自 2016 年正式成立以来，经历了快速的发展，已经从创立之初一个基于区块链的去中心化数据交易所（已于 2017 年正式上线且商用），进化成为一个服务着数百万用户和开发者的基础链，从服务于一个具体的数据业务场景进化到服务于全球数据经济。
-
-为了适应项目的不断进化，让关注本项目的社区用户、开发者和同业研究者对 GXChain 有全貌式的理解，我们在不断升级更新项目的白皮书，力求对项目的发展现状和未来方向有及时且客观的呈现。
-
-本次 3.0 版本的 GXChain ( 公信链 ) 白皮书，在以下几个方面有重要更新：
-
-- 明确了 GXChain 的治理架构，推进主链治理的民主、透明和去中心化，这标志着 GXChain已经度过了早期的团队运营阶段，逐渐向社区化治理过渡，有助于进一步扩大和凝聚共识。
-- 公布了 GXChain 的节点竞选规则和收益方案，竞选机制将带来节点的分散，提升主网出块的稳定和安全，后续节点竞选正式启动，也将引入全球有技术和社区号召力的团队融入 GXChain生态参与竞争和治理，提升 GXChain 的全球影响力。
-- 以更清晰的方式梳理和呈现了 GXChain 的系统层次结构和技术方案，重点阐述了智能合约2.0、预言机、跨链等合约层设计和实现，介绍了可信数据组件多个组成部分的技术方案，对GXChain 可信数据价值网络的业务场景进行了举例说明，为开发者提供了落地应用开发的场景指导。
-- 将原有基于 GXChain 发行的 Token — GXS，1:1 自动替换为 GXC，GXC 将作为 GXChain的主链核心资产 (Core Asset)，成为 GXChain 最重要的治理和应用通证，后续 GXChain 生态中治理、开发、应用、支付流通场景均以核心资产 GXC 为媒介。
-- 系统阐述了 GXC 的经济模型、价值、产出及分发机制，明确了 GXC 的价值内涵和成长空间。
-- 公布了 GXChain 后续的技术开发路线图，聚焦主线任务提升 GXChain 在技术上的竞争力，同时便于社区监督开发进度和开发者加入协作。
-
-[阅读全文](https://static.gxb.io/files/GXChain_WhitePaper_v3.0_CN.pdf)
-
+[阅读全文](https://theforceprotocol.com/theforceprotocol_whitepaper.pdf)
