@@ -1,9 +1,11 @@
 ### The Force Protocol
-<span>
-    <a href="https://www.theforceprotocol.com/">
-      <img width="400px" src='./logo/theforceprotocol.jpg'/>
-    </a>
-</span>
+<div align=center>
+	<span>
+	    <a href="https://www.theforceprotocol.com/">
+	      <img width="400px" src='./logo/theforceprotocol.jpg'/>
+	    </a>
+	</span>
+</div>
 
 ## 原力协议概览
 
@@ -31,9 +33,11 @@
 
 目前每个区块链应用都面临的问题是跨链交互，原力协议支持跨链资产互相操作，计划通过COSMOS 项目的 IBC 通信协议模块实现跨链交互，未来也将关注 Polkadot 项目的跨链技术。目前，原力协议在借贷场景的架构如下：
 
-<span>
-      <img width="400px" src='./images/001-theforceprotocol.jpg'/>
-</span>
+<div align=center>
+	<span>
+	      <img width="400px" src='./images/001-theforceprotocol.jpg'/>
+	</span>
+</div>
  
 图一   原力协议借贷场景下的技术架构  V 1.0
 
@@ -43,10 +47,11 @@
 在实现借贷场景的同时，由于稳定币的发行和应用与借贷业务有天然联系，基于对稳定币业务本质的理解，原力协议首次创新性的提出，基于多种跨链加密资产实现稳定币的抵押发行，为稳定币发行服务商提供开源框架，允许其自定义抵押资产种类、比例、治理机制，用市场竞争的思路选择最优化的跨链抵押资产组合；
 在这种模式下，稳定币供应商根据自身的风险控制能力、资产偏好、选择借贷抵押资产，根据原力协议提供的开发框架，开发抵押、风控、平仓等合约，为持有不同公链资产的用户提供去中心化质押资产借稳定币的服务；
 
-<span>
-      <img width="400px" src='./images/002-theforceprotocol.jpg'/>
-</span>
-
+<div align=center>
+	<span>
+	      <img width="400px" src='./images/002-theforceprotocol.jpg'/>
+	</span>
+</div>
 图二    原力协议基于稳定币市场的技术架构  V 1.0
 
 
