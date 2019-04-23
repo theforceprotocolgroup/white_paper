@@ -1,4 +1,4 @@
-# The Force Protocol White Paper
+# The Force Protocol
 <span>
     <a href="https://www.theforceprotocol.com/">
       <img width="400px" src='./assets/theforceprotocol.jpg'/>
@@ -7,14 +7,11 @@
 
 ## Abstract
 
-By January of 2018, the overall global value of cryptoassets has reached to $800 billion.
-
-In addition to cryptocurrency exchange, cryptotokens mortgage loan is another best way to get liquidity for cryptoassets holders.
+By January of 2018, the overall global value of cryptoassets has reached to $800 billion.In addition to cryptocurrency exchange, cryptotokens mortgage loan is another best way to get liquidity for cryptoassets holders.
 
 However, as different platforms of cryptoasset loan are based on different rules,rare liquidity among cryptoassets loan services exists, user experience improvement is in urgent need.
 
-Based on Ethereum (ETH) Blockchain platform, The Force Protocol team will develop
-cryptocurrency loan protocols and standards in different scenarios.
+Based on Ethereum (ETH) Blockchain platform, The Force Protocol team will develop cryptocurrency loan protocols and standards in different scenarios.
 
 By converting cryptocurrency borrowing request into tokens exchange-like trading, order format standardization is realized.
 
@@ -22,11 +19,7 @@ Stablecoins can cooperate with loan services. To make full use of stablecoins, D
 
 With this model, policy risk can be removed by introduction of supervision from third party custodian bank and auditing institution.
 
-In addition, sustainable full currency reserve mechanism is proposed for the first time.
-
 The Force Protocol will open source, and its instructions are encouraged to be called through API by third-party applications (supernode), with the purpose of providing protocol layer services for different cryptocurrency loan applications around the world.
-
-Moreover, liquidity and depth of loan platform are also expanded.
 
 [Read More](https://www.theforceprotocol.com/theforceprotocol_whitepaper_en.pdf)
 
