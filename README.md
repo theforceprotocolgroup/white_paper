@@ -44,7 +44,7 @@
 在这种模式下，稳定币供应商根据自身的风险控制能力、资产偏好、选择借贷抵押资产，根据原力协议提供的开发框架，开发抵押、风控、平仓等合约，为持有不同公链资产的用户提供去中心化质押资产借稳定币的服务；
 
 <span>
-      <img width="400px" src='./images/001-theforceprotocol.jpg'/>
+      <img width="400px" src='./images/002-theforceprotocol.jpg'/>
 </span>
 
 图二    原力协议基于稳定币市场的技术架构  V 1.0
@@ -60,4 +60,4 @@
 
 原力协议团队瞄准了加密数字资产领域下一个可以落地的赛道，我们希望能够和更多行业内的顶级伙伴合作，共同发力去中心化金融服务，一起推动这个行业的进步，参与人类历史的下一个伟大进程。
 
-[阅读全文](https://theforceprotocol.com/theforceprotocol_whitepaper.pdf)
+[了解更多](https://theforceprotocol.com/theforceprotocol_whitepaper.pdf)
