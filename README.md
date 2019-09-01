@@ -1,7 +1,7 @@
 # The Force Protocol
 <div align=center>
-	<span>
-	    <a href="https://www.theforceprotocol.com/">
+    <span>
+	    <a href="https://www.theforceprotocol.com">
 	      <img width="400px" src='./logo/theforceprotocol.jpg'/>
 	    </a>
 	</span>
